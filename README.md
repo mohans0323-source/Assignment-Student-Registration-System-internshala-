@@ -18,3 +18,4 @@ It allows users to add, edit, delete student records with localStorage support.
 - JavaScript
 
 ## GitHub Link
+https://github.com/mohans0323-source/Assignment-Student-Registration-System-internshala-
